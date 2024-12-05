@@ -4,3 +4,7 @@ print(list)
 print("----------------------------")
 del list[0]
 print(list)
+print("----------------------------")
+list.clear()
+print(list)
+
